@@ -13,6 +13,7 @@ Instalasi & Penggunaan
 
 Jalankan perintah berikut di Termux atau Linux untuk menginstal dan menjalankan script:
 
+'''sh
 pkg update && pkg upgrade
 pkg install python -y
 pip install -r requirements.txt
