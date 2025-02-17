@@ -1,5 +1,0 @@
-#!/bin/bash
-clear
-echo "Menjalankan TOMECTOR..."
-sleep 1
-python Tomector.py
