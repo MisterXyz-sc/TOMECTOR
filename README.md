@@ -16,5 +16,4 @@ Jalankan perintah berikut di **Termux** atau **Linux** untuk menginstal dan menj
 pkg update && pkg upgrade  
 pkg install python -y  
 pip install -r requirements.txt  
-chmod +x install
-./install
+python Tomector.py
