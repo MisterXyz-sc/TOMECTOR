@@ -2,4 +2,4 @@
 clear
 echo "Menjalankan TOMECTOR..."
 sleep 1
-python script.py
+python Tomector.py
