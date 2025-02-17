@@ -16,4 +16,5 @@ Jalankan perintah berikut di **Termux** atau **Linux** untuk menginstal dan menj
 pkg update && pkg upgrade  
 pkg install python -y  
 pip install -r requirements.txt  
-python script.py
+chmod +x install
+./install
